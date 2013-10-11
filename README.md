@@ -8,7 +8,7 @@ This bit of code pulls down any current traffic alerts from INDOT's website and 
 
 ## What do I need to use this?
 
-You will need somewhere to run it, [Heroku](https://www.heroku.com) works well. You need a [Pushover](https://pushover.net/) account so you can get your Use Token and create an application. A basic knowledge of the command line interface is also good
+You will need somewhere to run it, [Heroku](https://www.heroku.com) works well. You need a [Pushover](https://pushover.net/) account so you can get your user Token and create an application. A basic knowledge of the command line interface is also good
 
 ## Setup
 
